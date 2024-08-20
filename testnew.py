@@ -1,3 +1,4 @@
+#Virtual Mouse, Open CV project by Ganga
 import cv2
 import numpy as np
 import TrackingModule as htm
@@ -101,3 +102,5 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+#add drag to and other functions as required.
+#Ganga 
