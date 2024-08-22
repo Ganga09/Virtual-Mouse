@@ -10,6 +10,7 @@ Various hand gestures are mapped to corresponding mouse functions, such as;
 5) all fingers out for screenshot
 
 PyAutoGUI is employed to simulate these mouse actions. 
+
 Mediapipe:
 * The MediaPipe Hand Landmarker detect the landmarks of the hands in an image. 
 * It can be used to locate key points of hands and render visual effects on them.
