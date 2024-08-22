@@ -19,7 +19,7 @@ Mediapipe:
 ![image](https://github.com/user-attachments/assets/a68089b9-9958-49cf-9e58-74a3d7738478)
 
   
-![image](https://github.com/user-attachments/assets/20e7f3f3-2f5e-4056-8b91-157d5f74b94d)
+
 PyAutoGUI lets your Python scripts control the mouse and keyboard to automate interactions with other applications. 
 PyAutoGUI has several features:
 
